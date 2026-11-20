@@ -1,0 +1,6 @@
+{
+  "name": "FOODKING",
+  "description": "Modern fast food restaurant storefront featuring crispy fried chicken, double smash burgers, stone-oven pizza, and grilled shawarma with fast 30-minute delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
